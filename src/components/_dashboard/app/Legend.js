@@ -29,7 +29,7 @@ const Legend = () => {
     };
 
     legend.addTo(map);
-  });
+  }, []);
   return null;
 };
 
