@@ -1,1 +1,1 @@
-# androidosprivacy.github.io
+# androidosprivacy
